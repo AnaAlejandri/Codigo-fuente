@@ -114,6 +114,6 @@ Codigo fuente
    </header>
     
   <h3>Github</h3> 
-  <p>Se interga los codigos de github donde se ha realizado cada uno de los trabajos, tanto individuales como en equipo: Trabajo en equipo, retomando mi primer sprint : https://github.com/AnaAlejandri/Backlogs.git .   Ultimo trabajo en equipo, Reunión para revisión de modificaciones https://github.com/AnaAlejandri/Reunion-Inicial</p>
+  <p>Se interga los codigos de github donde se ha realizado cada uno de los trabajos, tanto individuales como en equipo: Actividad integradora. Sprint, el corazón de SCRUM: https://github.com/AnaAlejandri/sprint.git . Trabajo en equipo, retomando mi primer sprint : https://github.com/AnaAlejandri/Backlogs.git .   Ultimo trabajo en equipo, Reunión para revisión de modificaciones https://github.com/AnaAlejandri/Reunion-Inicial</p>
 </body>
 </html>
